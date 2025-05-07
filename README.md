@@ -1,9 +1,14 @@
 # La meva *wishlist* 📝
 Hola, amics i família!
-He creat aquesta llista per compartir algunes idees de regals que m'encantaria rebre. Aquí trobareu una selecció de coses que desitjo, perfectes per a qualsevol ocasió especial.
+
+He creat aquesta llista per compartir algunes idees de regals que m'encantaria rebre.
+
+Aquí trobareu una selecció de coses que desitjo, perfectes per a qualsevol ocasió especial.
 
 #### Per què una *wishlist* 🎁?
-La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte, assegurant-vos que sigui alguna cosa que realment gaudiré. Cada article està seleccionat amb cura i reflecteix els meus interessos i gustos actuals.
+La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte, assegurant-vos que sigui alguna cosa que realment gaudiré.
+
+Cada article està seleccionat amb cura i reflecteix els meus interessos i gustos actuals.
 
 ---
 
@@ -16,12 +21,12 @@ TECNOLOGIA
 
 </summary>
 
-- [Apple iPhone 15 Pro MAX (1TB - Titanio Negro)](https://amzn.eu/d/00GkECEh) (mòbil)
-- [Apple AirPods Pro (2.ª generación) con Estuche de Carga MagSafe (USB‑C)](https://amzn.eu/d/51HVK3K) (auriculars)
-- [Apple Watch SE (2.ª generación) con Caja Medianoche de 44mm y Correa Medianoche - Talla S/M](https://amzn.eu/d/05jlS4U0) (rellotge)
-- [Disc dur SSD NVMe d'1TB](https://amzn.eu/d/0BPHl9y) i [carcassa adaptador](https://amzn.eu/d/eQ27LQr) (disc dur extern)
-- [Piles AA recarregables (USB-C)](https://amzn.eu/d/00QFPoER)
-- [Raspberry Pi 5 (8GB)](https://amzn.eu/d/9DNj8M0), [caixa amb ventilador](https://amzn.eu/d/gEvJyKs) i [microSD de 32GB](https://amzn.eu/d/9wPiQfE) (mini pc per fer experiments)
+- L'iPhone més pepino
+- AirPods Pro
+- Apple Watch
+- Disc dur SSD NVMe d'1 TB o més i una carcassa-adaptador per convertir-lo en disc dur extern
+- Piles AA recarregables per USB-C
+- Raspberry Pi 5 (16 GB) amb caixa amb ventilador
 - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
 
 </details>
@@ -53,21 +58,15 @@ MODA
 
 </summary>
 
-- [Vambes PUMA Exotek](https://eu.puma.com/es/es/search?q=Exotek&originalphrase=Exotek)
-- [Dessuadora Quinto X Soul King](https://quintoclothing.com/tienda/sudadera-quinto-x-soul-king)
-- [Samarreta Quinto X Afro](https://quintoclothing.com/tienda/camiseta-quinto-x-afro)
-- [Samarreta Quinto X Diable inlove](https://quintoclothing.com/tienda/camiseta-quinto-x-diable-inlove)
-- [Samarreta Quinto X Doffy](https://quintoclothing.com/tienda/camiseta-quinto-x-doffy)
-- [Barret Cross Guild (QuintoClothing)](https://quintoclothing.com/tienda/gorro-cross-guild)
-- [Barret Donquixote (QuintoClothing)](https://quintoclothing.com/tienda/gorro-donquixote)
-- [Gorra Nakama (QuintoClothing)](https://quintoclothing.com/tienda/gorra-nakama-quinto-clothing)
-- Sunnies (ulleres de sol)
+- Ulleres de sol
+- Vambes
+- El que sigui de roba de One Piece
 
 </details>
 
 ---
 
-Gràcies per invertir el teu temps en mirar la meva wishlist. El teu gest significa molt per a mi i estic emocionat pel que sigui que puguis triars. Ens veiem aviat!
+Gràcies per invertir el teu temps en mirar la meva wishlist. El teu gest significa molt per a mi i estic emocionat pel que sigui que puguis triar. Ens veiem aviat!
 
 Amb afecte,
 
